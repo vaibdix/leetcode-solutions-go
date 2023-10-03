@@ -21,3 +21,4 @@
 |75|[Sort Colors](./sortColors.go)|0 ms|2.1 MB||
 |77|[Combinations](./combinations.go)|125 ms|50.1 MB||
 |89|[Gray Code](./grayCode.go)|3 ms|4.3 MB||
+|89|[Find Duplicate Number](./findDuplicateNumbers.go)|79 ms|8.3 MB||
